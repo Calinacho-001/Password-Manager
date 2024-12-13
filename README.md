@@ -37,7 +37,7 @@ This is a Password Manager built with Python and Tkinter, designed to help users
    - After filling in the details, click the "Add" button to save the credentials to a file (`data.txt`).
    - A confirmation message will show up to verify the saved data.
 
-     
+     ![Confirmation Message](Password%20manager%20confirmation.PNG)
 
 4. **Empty Fields Warning**:
    - If any of the fields (Website, Username, or Password) are left empty and the "Add" button is clicked, a warning message will appear, asking the user to fill in all fields before saving.
