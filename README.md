@@ -11,7 +11,7 @@ This is a Password Manager built with Python and Tkinter, designed to help users
 - **Password Validation**: Ensures that generated passwords meet common security requirements such as length and character variety.
 - **GUI Interface**: Provides an easy-to-use graphical interface for interacting with the password manager.
 
-![Password Manager](Password%20manager_app.PNG)
+![Password Manager](Password_20manager_app.PNG)
   
 ## Requirements
 
@@ -34,15 +34,15 @@ This is a Password Manager built with Python and Tkinter, designed to help users
 
 3. **Functionality**:
    - Click the "Generate Password" button to generate a new password, which will automatically be copied to your clipboard.
-   - After filling in the details, click the "Add" button to save the credentials to a file (`data.txt`).
+   - After filling in the details, click the "Add" button to save the credentials to a file (`data.json`).
    - A confirmation message will show up to verify the saved data.
 
-     ![Confirmation Message](Password%20manager%20confirmation.PNG)
+     ![Confirmation Message](Passwor.PNG)
 
 4. **Empty Fields Warning**:
    - If any of the fields (Website, Username, or Password) are left empty and the "Add" button is clicked, a warning message will appear, asking the user to fill in all fields before saving.
   
-     ![Warning Message](Password%20manager%20warning.PNG)
+     ![Warning Message](Passwo.PNG)
      
 </details>
 
