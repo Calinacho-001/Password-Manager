@@ -1,0 +1,22 @@
+{
+    "eBay": {
+        "email": "test@domain.com",
+        "password": "7RIiZ&&5M|>7w=hD"
+    },
+    "Amazon": {
+        "email": "test@domain.com",
+        "password": "H0c^[32Fh@8iHa6k"
+    },
+    "YouTube": {
+        "email": "test@domain.com",
+        "password": "JF(Ar$0;xH#t1M_5"
+    },
+    "123": {
+        "email": "your_email@domain.com",
+        "password": "^BFFV+vjHi9B1*}K"
+    },
+    "Facebook": {
+        "email": "your_email@domain.com",
+        "password": "f8&7m-]=puZUc>uS"
+    }
+}
